@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>highlatitudepv.org</id>
+  <title>Posts</title>
+  <updated>2024-03-16T09:07:49.531027+00:00</updated>
+  <link href="highlatitudepv.org"/>
+  <link href="highlatitudepv.org/posts/atom.xml" rel="self"/>
+  <generator uri="https://ablog.readthedocs.io/" version="0.11.6">ABlog</generator>
+  <entry>
+    <id>highlatitudepv.org/posts/2024_high_latitude_pv_workshop_pitea/</id>
+    <title>2024 High Latitude PV Workshop</title>
+    <updated>2021-08-27T00:00:00+00:00</updated>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;This workshop will allow a small group of researchers and industry representatives the opportunity to focus on and exchange ideas about this emerging market and its unique opportunities and challenges. We are also preparing a review article that we hope to refine with workshop participants’ input.&lt;/p&gt;
+&lt;/p&gt;
+</content>
+    <link href="highlatitudepv.org/posts/2024_high_latitude_pv_workshop_pitea/"/>
+    <summary>This workshop will allow a small group of researchers and industry representatives the opportunity to focus on and exchange ideas about this emerging market and its unique opportunities and challenges. We are also preparing a review article that we hope to refine with workshop participants’ input.</summary>
+    <category term=""/>
+    <published>2021-08-27T00:00:00+00:00</published>
+  </entry>
+</feed>
